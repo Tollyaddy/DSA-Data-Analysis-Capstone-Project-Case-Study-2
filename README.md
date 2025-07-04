@@ -14,3 +14,13 @@ An Excel file containing data, such as product details and customer information 
 2. A columns that was not needed for analysis was dropped by writing the query to do such.
 3. A query was written to join the columns of the two tables containing the required information for analysis.
 #### Exploratory Data Analysis
+1. Which product category had the highest sales?
+2. What are the top 3 and bottom 3 regions in terms of sales?
+3. Who are the most valuable customers, and what products do they typically purchase?
+4. Which shipping method incurred the most shipping costs?
+#### Recommendations
+-  The product category with the highest sales should enjoy more marketing strategies to increase its revenue.
+-  Customers who fall within the bottom ten customers should be sought after to know what issues they have and thereby encourage them to     make more sales, maybe with discount allowance.
+-  The most valuable customers should be rewarded with some kind of incentives to encourage them and promote mouth-to-mouth    advertisement.
+#### Author
+**Oluwatola Deborah, Akeredolu**
